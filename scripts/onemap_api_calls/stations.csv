@@ -1,0 +1,205 @@
+﻿station_name,type
+Changi Airport MRT (CG2),MRT
+Expo MRT (CG1),MRT
+Pasir Ris MRT (EW1),MRT
+Tampines MRT (EW2),MRT
+Simei MRT (EW3),MRT
+Tanah Merah MRT (EW4),MRT
+Bedok MRT (EW5),MRT
+Kembangan MRT (EW6),MRT
+Eunos MRT (EW7),MRT
+Paya Lebar MRT (EW8),MRT
+Aljunied MRT (EW9),MRT
+Kallang MRT (EW10),MRT
+Lavender MRT (EW11),MRT
+Bugis MRT (EW12),MRT
+City Hall MRT (EW13),MRT
+Raffles Place MRT (EW14),MRT
+Tanjong Pagar MRT (EW15),MRT
+Outram Park MRT (EW16),MRT
+Tiong Bahru MRT (EW17),MRT
+Redhill MRT (EW18),MRT
+Queenstown MRT (EW19),MRT
+Commonwealth MRT (EW20),MRT
+Buona Vista MRT (EW21),MRT
+Dover MRT (EW22),MRT
+Clementi MRT (EW23),MRT
+Jurong East MRT (EW24),MRT
+Chinese Garden MRT (EW25),MRT
+Lakeside MRT (EW26),MRT
+Boon Lay MRT (EW27),MRT
+Pioneer MRT (EW28),MRT
+Joo Koon MRT (EW29),MRT
+Gul Circle MRT (EW30),MRT
+Tuas Crescent MRT (EW31),MRT
+Tuas West Road MRT (EW32),MRT
+Tuas Link MRT (EW33),MRT
+Jurong East MRT (NS1),MRT
+Bukit Batok MRT (NS2),MRT
+Bukit Gombak MRT (NS3),MRT
+Choa Chu Kang MRT (NS4),MRT
+Yew Tee MRT (NS5),MRT
+Kranji MRT (NS7),MRT
+Marsiling MRT (NS8),MRT
+Woodlands MRT (NS9),MRT
+Admiralty MRT (NS10),MRT
+Sembawang MRT (NS11),MRT
+Canberra MRT (NS12),MRT
+Yishun MRT (NS13),MRT
+Khatib MRT (NS14),MRT
+Yio Chu Kang MRT (NS15),MRT
+Ang Mo Kio MRT (NS16),MRT
+Bishan MRT (NS17),MRT
+Braddell MRT (NS18),MRT
+Toa Payoh MRT (NS19),MRT
+Novena MRT (NS20),MRT
+Newton MRT (NS21),MRT
+Orchard MRT (NS22),MRT
+Somerset MRT (NS23),MRT
+Dhoby Ghaut MRT (NS24),MRT
+City Hall MRT (NS25),MRT
+Raffles Place MRT (NS26),MRT
+Marina Bay MRT (NS27),MRT
+Marina South Pier MRT (NS28),MRT
+HarbourFront MRT (NE1),MRT
+Outram Park MRT (NE3),MRT
+Chinatown MRT (NE4),MRT
+Clarke Quay MRT (NE5),MRT
+Dhoby Ghaut MRT (NE6),MRT
+Little India MRT (NE7),MRT
+Farrer Park MRT (NE8),MRT
+Boon Keng MRT (NE9),MRT
+Potong Pasir MRT (NE10),MRT
+Woodleigh MRT (NE11),MRT
+Serangoon MRT (NE12),MRT
+Kovan MRT (NE13),MRT
+Hougang MRT (NE14),MRT
+Buangkok MRT (NE15),MRT
+Sengkang MRT (NE16),MRT
+Punggol MRT (NE17),MRT
+Marina Bay MRT (CE2),MRT
+Bayfront MRT (CE1),MRT
+Dhoby Ghaut MRT (CC1),MRT
+Bras Basah MRT (CC2),MRT
+Esplanade MRT (CC3),MRT
+Promenade MRT (CC4),MRT
+Nicoll Highway MRT (CC5),MRT
+Stadium MRT (CC6),MRT
+Mountbatten MRT (CC7),MRT
+Dakota MRT (CC8),MRT
+Paya Lebar MRT (CC9),MRT
+MacPherson MRT (CC10),MRT
+Tai Seng MRT (CC11),MRT
+Bartley MRT (CC12),MRT
+Serangoon MRT (CC13),MRT
+Lorong Chuan MRT (CC14),MRT
+Bishan MRT (CC15),MRT
+Marymount MRT (CC16),MRT
+Caldecott MRT (CC17),MRT
+Botanic Gardens MRT (CC19),MRT
+Farrer Road MRT (CC20),MRT
+Holland Village MRT (CC21),MRT
+Buona Vista MRT (CC22),MRT
+one-north MRT (CC23),MRT
+Kent Ridge MRT (CC24),MRT
+Haw Par Villa MRT (CC25),MRT
+Pasir Panjang MRT (CC26),MRT
+Labrador Park MRT (CC27),MRT
+Telok Blangah MRT (CC28),MRT
+HarbourFront MRT (CC29),MRT
+Bukit Panjang MRT (DT1),MRT
+Cashew MRT (DT2),MRT
+Hillview MRT (DT3),MRT
+Beauty World MRT (DT5),MRT
+King Albert Park MRT (DT6),MRT
+Sixth Avenue MRT (DT7),MRT
+Tan Kah Kee MRT (DT8),MRT
+Botanic Gardens MRT (DT9),MRT
+Stevens MRT (DT10),MRT
+Newton MRT (DT11),MRT
+Little India MRT (DT12),MRT
+Rochor MRT (DT13),MRT
+Bugis MRT (DT14),MRT
+Promenade MRT (DT15),MRT
+Bayfront MRT (DT16),MRT
+Downtown MRT (DT17),MRT
+Telok Ayer MRT (DT18),MRT
+Chinatown MRT (DT19),MRT
+Fort Canning MRT (DT20),MRT
+Bencoolen MRT (DT21),MRT
+Jalan Besar MRT (DT22),MRT
+Bendemeer MRT (DT23),MRT
+Geylang Bahru MRT (DT24),MRT
+Mattar MRT (DT25),MRT
+MacPherson MRT (DT26),MRT
+Ubi MRT (DT27),MRT
+Kaki Bukit MRT (DT28),MRT
+Bedok North MRT (DT29),MRT
+Bedok Reservoir MRT (DT30),MRT
+Tampines West MRT (DT31),MRT
+Tampines MRT (DT32),MRT
+Tampines East MRT (DT33),MRT
+Upper Changi MRT (DT34),MRT
+Expo MRT (DT35),MRT
+Woodlands North MRT (TE1),MRT
+Woodlands MRT (TE2),MRT
+Woodlands South MRT (TE3),MRT
+Springleaf MRT (TE4),MRT
+Lentor MRT (TE5),MRT
+Mayflower MRT (TE6),MRT
+Bright Hill MRT (TE7),MRT
+Upper Thomson MRT (TE8),MRT
+Caldecott MRT (TE9),MRT
+Stevens MRT (TE11),MRT
+Napier MRT (TE12),MRT
+Orchard Boulevard MRT (TE13),MRT
+Orchard MRT (TE14),MRT
+Great World MRT (TE15),MRT
+Havelock MRT (TE16),MRT
+Outram Park MRT (TE17),MRT
+Maxwell MRT (TE18),MRT
+Shenton Way MRT (TE19),MRT
+Marina Bay MRT (TE20),MRT
+Gardens by the Bay MRT (TE22),MRT
+Choa Chu Kang LRT (BP1),LRT
+South View LRT (BP2),LRT
+Keat Hong LRT (BP3),LRT
+Teck Whye LRT (BP4),LRT
+Phoenix LRT (BP5),LRT
+Bukit Panjang LRT (BP6),LRT
+Petir LRT (BP7),LRT
+Pending LRT (BP8),LRT
+Bangkit LRT (BP9),LRT
+Fajar LRT (BP10),LRT
+Segar LRT (BP11),LRT
+Jelapang LRT (BP12),LRT
+Senja LRT (BP13),LRT
+Cheng Lim LRT (SW1),LRT
+Farmway LRT (SW2),LRT
+Kupang LRT (SW3),LRT
+Thanggam LRT (SW4),LRT
+Fernvale LRT (SW5),LRT
+Layar LRT (SW6),LRT
+Tongkang LRT (SW7),LRT
+Renjong LRT (SW8),LRT
+Sengkang LRT (STC),LRT
+Compassvale LRT (SE1),LRT
+Rumbia LRT (SE2),LRT
+Bakau LRT (SE3),LRT
+Kangkar LRT (SE4),LRT
+Ranggung LRT (SE5),LRT
+Cove LRT (PE1),LRT
+Meridian LRT (PE2),LRT
+Coral Edge LRT (PE3),LRT
+Riviera LRT (PE4),LRT
+Kadaloor LRT (PE5),LRT
+Oasis LRT (PE6),LRT
+Damai LRT (PE7),LRT
+Punggol LRT (PTC),LRT
+Sam Kee LRT (PW1),LRT
+Teck Lee LRT (PW2),LRT
+Punggol Point LRT (PW3),LRT
+Samudera LRT (PW4),LRT
+Nibong LRT (PW5),LRT
+Sumang LRT (PW6),LRT
+Soo Teck LRT (PW7),LRT
